@@ -7,7 +7,7 @@ function NewsSection({ news }) {
       <br />
       <br />
       <div>
-        <h2>All X Payments News</h2>
+        <h2>All Defi News</h2>
         <hr />
         {news.map((item, index) => (
           <NewsItem
